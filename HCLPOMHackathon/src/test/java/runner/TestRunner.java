@@ -20,7 +20,7 @@ import utils.BasePage;
 
 public class TestRunner {
 	
-	//before class
+	//before classs
 	@BeforeClass
 	public static void setUp() {
 		BasePage.init_extentReport();
